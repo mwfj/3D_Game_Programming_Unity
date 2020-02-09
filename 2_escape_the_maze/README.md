@@ -21,8 +21,8 @@
 + To quit the Game, Press `ESC` key <br>
 + To show the fast way to get out the maze, press `G` key. The wall will show on *red sign* to guide user.
 
-![Start](img/start.png)
-![End](img/end.png)
+![Start](img/Start.png)
+![End](img/End.png)
 
 ### The fastest routine
 ![routing_for_escape_maze](img/routing_for_escape_maze.JPG)
