@@ -1,5 +1,7 @@
 # Assignment 2 Escape the Maze:
 
+### The main purpose in this project is to implement `spring following camera` in Unity.
+![game_playing](img/game_playing.gif)
 
 ## the functionality in my work:
 
