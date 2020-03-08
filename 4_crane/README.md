@@ -3,9 +3,11 @@
 ![game_interface](pic/game_interface.gif)
 ### Basically, it should parent from the first joint and link to the second joint and link and so on. Then use the matrix multipication to compute the position and rotation of the child joint the links according to their parent.
 ![fk_principle](pic/forward_kinematics.jpeg)
-<center>
-![fk_hierarchy](pic/fk_hierarchy.png)
-</center>
+
+<p align="center">
+  <img width="600" height="400" src="pic/fk_hierarchy.png">
+</p>
+
 ## The function in this game:
 
 1. **Forword Kinematic:** most code you can find  in the `BodyController.cs`. MeanWhile,  when the user press `n` key, the program will use matrix transfermation to compute the position for  the second joint  by using  the rotation and postion of joint1`(Call Arm in my game)` , joint2`(Call Joint1 in my game )` and the length of two Links. Similarly, when the user press `m` key, it will do the matrix transformation by using its inverse matrix to move the arm back.
