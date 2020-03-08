@@ -5,7 +5,7 @@
 ![fk_principle](pic/forward_kinematics.jpeg)
 
 <p align="center">
-  <img width="600" height="400" src="pic/fk_hierarchy.png">
+  <img width="600" height="400" src="pic/FK_hierarchy.png">
 </p>
 
 ## The function in this game:
